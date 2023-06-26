@@ -3,8 +3,9 @@ imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Soy Psicólogo de formación, apasionado de la tecnología y la analítica de datos. 
 
+Tengo experiencia en el desarrollo de páginas web en wordpress y 
 It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
 
 Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
