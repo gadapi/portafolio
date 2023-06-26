@@ -1,5 +1,5 @@
 {
-  "intro": "Hej",
+  "intro": "Hola",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,15 +8,15 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Soy un analista de datos",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "Haré el trabajo más fácil ",
+    "highlight": "para usted",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Un analista de datos recopila, limpia e interpreta conjuntos de datos para responder una pregunta o resolver un problema.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": [ "Github", "Mail"],
+    "showIcons": true
   }
 }
